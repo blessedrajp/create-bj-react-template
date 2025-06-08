@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Julius_Sans_One';
+  src: url('./assets/fonts/Julius_Sans_One/JuliusSansOne-Regular.ttf') format('truetype');
+}
+*{
+  padding: 0;
+  margin:0;
+}
+
+body {
+  font-family: 'Julius_Sans_One', sans-serif !important;
+
+
+
+}
+

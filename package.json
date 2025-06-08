@@ -1,0 +1,25 @@
+{
+  "name": "create-bj-react-template",
+  "version": "1.0.0",
+  "description": "Custom React template CLI",
+  "main": "index.js",
+  "bin": {
+    "create-bj-react-template": "bin/create-bj-react-template.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "template",
+    "cli"
+  ],
+  "author": "blessed raj P",
+  "license": "MIT",
+  "dependencies": {
+    "@mui/material": "^7.1.0",
+    "@reduxjs/toolkit": "^2.8.2",
+    "mui": "^0.0.1",
+    "react-redux": "^9.2.0"
+  }
+}
